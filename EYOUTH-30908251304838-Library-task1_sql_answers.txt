@@ -1,0 +1,11 @@
+1. Total checkouts: 391
+2. Top 3 books:
+book_id
+501    57
+507    55
+513    46
+Name: count, dtype: int64
+
+3. Active members in Shubra: 5
+4. Members with no checkouts: 18
+5. Average checkouts per active member: 4.53
